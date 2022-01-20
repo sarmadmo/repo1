@@ -1,0 +1,6 @@
+CSD111- git hub demo 
+Download the Git installer appropriate for your device from the Git website
+Run the installer using the default configurations when prompted.
+Open your favourite command line shell1 and enter the command git. 
+(If you installed Git on Windows, 
+use the Git Bash shell which should now be on your system.)
